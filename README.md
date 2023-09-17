@@ -4,7 +4,7 @@
 [![lINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiana-siilva)
 
 ![Tatiana GitHub stats](https://github-readme-stats.vercel.app/api?username=tatianadasilva&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianadasilva&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatianadasilva&layout=compact&langs_count=16&theme=dracula)
 
 ## Tecnologias que eu estou aprendendo
 
